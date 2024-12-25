@@ -38,10 +38,6 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 - Autenticação baseada em **JWT**, permitindo tokens seguros e únicos.
 
 ## 🛤️ Endpoints
-- POST **/api/Auth/register**: Cadastro de novos usuários.
-- POST **/api/Auth/login**: Autenticação de usuários e geração de token JWT. 
-- POST **/api/Auth/logout**: Revogação de tokens JWT para impedir uso futuro (Autenticação Requerida).
-
 | Método |      Endpoint      |                  Descrição        	      | Autenticação Requerida |
 |--------|--------------------|-------------------------------------------|------------------------|
 |  POST  | /api/auth/register | Registro de novos usuários                |          Não           |
