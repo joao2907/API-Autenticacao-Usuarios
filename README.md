@@ -32,9 +32,12 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 - **Application** -> **DTOs:** Modelos para transferência de dados (ex.: `UserDto.cs`, `LoginDTO.cs`).
 - **Domain** -> **Entities:** Representação das tabelas no banco de dados (ex.: `User.cs`, `RevokedToken.cs`).
 - **Domain** -> **Interfaces:** Interfaces da aplicação (ex.: `IUserRepository.cs`, `IUserService.cs`).
-  
-- **/src
-- **├── Presentation/ # Controllers e configurações de rotas.
-- **├── Application/ # Regras de negócio e validações.
-- **├── Persistence/ # Acesso a banco de dados, repositórios e contexto.
-- **└── Domain/ # Entidades e contratos.
+
+## 🛡️ Segurança  
+- Senhas armazenadas com **BCrypt** para proteção contra ataques.  
+- Autenticação baseada em **JWT**, permitindo tokens seguros e únicos.
+
+## 🛤️ Endpoints
+- POST **/api/Auth/register**: Cadastro de novos usuários.
+- POST **/api/Auth/login**: Autenticação de usuários e geração de token JWT.
+- POST **/api/Auth/logout**: Revogação de tokens JWT para impedir uso futuro.
