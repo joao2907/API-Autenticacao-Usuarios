@@ -26,4 +26,9 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 - **Persistence Layer:** Cuida das operações de banco de dados e uso do Entity Framework Core.  
 - **Data Transfer Objects (DTOs):** Utilizados para transportar dados entre camadas sem expor entidades de domínio.  
 
-### 🖼️ Estrutura de Pastas  
+### 🖼️ Estrutura de Pastas 
+/src
+├── Presentation/ # Controllers e configurações de rotas.
+├── Application/ # Regras de negócio e validações.
+├── Persistence/ # Acesso a banco de dados, repositórios e contexto.
+└── Domain/ # Entidades e contratos.
