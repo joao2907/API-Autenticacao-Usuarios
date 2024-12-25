@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\application\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\application\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\domain\\entities\\revokedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\domain\\entities\\revokedtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\domain\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\domain\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\infrastructure\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\presentation\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|c:\\users\\jvsc2\\onedrive\\\u00E1rea de trabalho\\jo\u00E3o v\u00EDctor\\projeto login\\api de autentica\u00E7\u00E3o de usu\u00E1rios\\api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{ACF5E8F0-B7CE-4C89-A62C-DADC3CCE36CE}|Api\\Api.csproj|solutionrelative:api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Program.cs",
+              "RelativeDocumentMoniker": "Api\\Program.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Program.cs",
+              "RelativeToolTip": "Api\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAowKYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T17:58:53.47Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Api\\Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Api\\Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T21:49:06.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Application\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Api\\Application\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Application\\Services\\UserService.cs",
+              "RelativeToolTip": "Api\\Application\\Services\\UserService.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAgwF0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:45:42.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Infrastructure\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Api\\Infrastructure\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwDkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-15T16:20:54.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Application\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Api\\Application\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Application\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Api\\Application\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-16T00:24:04.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RevokedToken.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Domain\\Entities\\RevokedToken.cs",
+              "RelativeDocumentMoniker": "Api\\Domain\\Entities\\RevokedToken.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Domain\\Entities\\RevokedToken.cs",
+              "RelativeToolTip": "Api\\Domain\\Entities\\RevokedToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T03:51:40.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Domain\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Api\\Domain\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Domain\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Api\\Domain\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T02:38:08.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Api\\Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Api\\Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T20:57:46.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Api\\Presentation\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Presentation\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Api\\Presentation\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAkwGIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:02:42.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Api\\Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Api\\Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-08T04:02:55.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\jvsc2\\OneDrive\\\u00C1rea de Trabalho\\Jo\u00E3o V\u00EDctor\\Projeto Login\\API de autentica\u00E7\u00E3o de usu\u00E1rios\\Api\\appsettings.json",
+              "RelativeToolTip": "Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-08T03:57:36.64Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
