@@ -27,8 +27,8 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 - **Data Transfer Objects (DTOs):** Utilizados para transportar dados entre camadas sem expor entidades de domínio.  
 
 ### 🖼️ Estrutura de Pastas 
-/src
-├── Presentation/ # Controllers e configurações de rotas.
-├── Application/ # Regras de negócio e validações.
-├── Persistence/ # Acesso a banco de dados, repositórios e contexto.
-└── Domain/ # Entidades e contratos.
+- **/src
+- **├── Presentation/ # Controllers e configurações de rotas.
+- **├── Application/ # Regras de negócio e validações.
+- **├── Persistence/ # Acesso a banco de dados, repositórios e contexto.
+- **└── Domain/ # Entidades e contratos.
