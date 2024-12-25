@@ -6,7 +6,8 @@ Bem-vindo(a) ao repositório da API RESTful desenvolvida em **ASP.NET Core**! Es
 - **Registro de Usuários:** Criação de novos usuários com validação de campos.
 - **Login de Usuários:** Autenticação via email e senha com geração de token JWT (JSON Web Token).
 - **Logout:** Revogação de tokens JWT para impedir uso futuro.
-- Hashing de senhas utilizando **BCrypt** para proteção de dados sensíveis.  
+- **Validação de Token:** Verificação de tokens revogados.
+- **Armazenamento Seguro:** Senhas armazenadas de forma segura utilizando hashing **(BCrypt)**.
 - Documentação da API gerada automaticamente com **Swagger**.  
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas  
