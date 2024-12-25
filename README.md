@@ -18,7 +18,6 @@ Esta API de autenticação foi desenvolvida utilizando **ASP.NET Core** e implem
 - **Swagger**: Documentação interativa da API.
 - Banco de dados relacional (compatível com SQLite, SQL Server, PostgreSQL, etc.).
 
-
 ## 📚 Arquitetura do Projeto  
 A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando responsabilidades para maior organização e escalabilidade:  
 - **Presentation Layer:** Responsável por receber e retornar os dados das requisições.  
@@ -27,6 +26,12 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 - **Data Transfer Objects (DTOs):** Utilizados para transportar dados entre camadas sem expor entidades de domínio.  
 
 ### 🖼️ Estrutura de Pastas 
+- **Controllers:** Lógica de roteamento e resposta HTTP (ex.: `AuthController.cs`).
+- **Services:** Contém as regras de negócio (ex.: `UserService.cs`).
+- **Repositories:** Lógica de acesso ao banco de dados (ex.: `UserRepository.cs`).
+- **DTOs:** Modelos para transferência de dados (ex.: `UserDto.cs`).
+- **Entities:** Representação das tabelas no banco de dados (ex.: `RevokedToken.cs`).
+  
 - **/src
 - **├── Presentation/ # Controllers e configurações de rotas.
 - **├── Application/ # Regras de negócio e validações.
