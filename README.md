@@ -4,6 +4,7 @@ Bem-vindo(a) ao repositório da API RESTful desenvolvida em **ASP.NET Core**! Es
 
 ## 🚀 Funcionalidades  
 - **Registro de Usuários:** Criação de novos usuários com validação de campos.
+- **Login de Usuários:** Autenticação via email e senha com geração de token JWT.
 - Autenticação via **JWT (JSON Web Token)**.  
 - Hashing de senhas utilizando **BCrypt** para proteção de dados sensíveis.  
 - Documentação da API gerada automaticamente com **Swagger**.  
