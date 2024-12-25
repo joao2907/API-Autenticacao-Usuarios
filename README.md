@@ -39,5 +39,22 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 
 ## 🛤️ Endpoints
 - POST **/api/Auth/register**: Cadastro de novos usuários.
-- POST **/api/Auth/login**: Autenticação de usuários e geração de token JWT.
-- POST **/api/Auth/logout**: Revogação de tokens JWT para impedir uso futuro.
+- POST **/api/Auth/login**: Autenticação de usuários e geração de token JWT. 
+- POST **/api/Auth/logout**: Revogação de tokens JWT para impedir uso futuro (Autenticação Requerida).
+
+| Método |      Endpoint      |                  Descrição        	      | Autenticação Requerida |
+|--------|--------------------|-------------------------------------------|------------------------|
+|  POST  | /api/auth/register | Registro de novos usuários                |          Não           |
+|  POST  | /api/auth/login    | Autenticação de usuários e geração de JWT |          Não           |
+|  POST  | /api/auth/logout   | Logout do usuário e revogação do token    |          Sim           |
+
+Método	Endpoint	Descrição	Autenticação Requerida
+POST	/api/auth/register	Registro de novos usuários	Não
+POST	/api/auth/login	Autenticação de usuários e geração de JWT	Não
+POST	/api/auth/logout	Logout do usuário e revogação do token	Sim
+
+## 📋 Como Executar  
+
+### Pré-requisitos  
+- **.NET SDK** instalado (versão 6.0 ou superior).  
+- **Banco de Dados** (Ex.: SQL Server, configurado no `appsettings.json`).
