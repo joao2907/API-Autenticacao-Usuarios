@@ -44,11 +44,6 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 |  POST  | /api/auth/login    | Autenticação de usuários e geração de JWT |          Não           |
 |  POST  | /api/auth/logout   | Logout do usuário e revogação do token    |          Sim           |
 
-Método	Endpoint	Descrição	Autenticação Requerida
-POST	/api/auth/register	Registro de novos usuários	Não
-POST	/api/auth/login	Autenticação de usuários e geração de JWT	Não
-POST	/api/auth/logout	Logout do usuário e revogação do token	Sim
-
 ## 📋 Como Executar  
 
 ### Pré-requisitos  
