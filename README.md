@@ -4,8 +4,6 @@
 
 Esta API de autenticação foi desenvolvida utilizando **ASP.NET Core** e implementa funcionalidades básicas de autenticação e autorização de usuários, como registro, login, logout e geração de tokens JWT. O projeto inclui também a lógica para revogação e validação de tokens, tornando-o adequado para aplicações que requerem segurança e controle de acesso.
 
-Bem-vindo(a) ao repositório da API RESTful desenvolvida em **ASP.NET Core**! Este projeto implementa funcionalidades de cadastro e autenticação de usuários, seguindo boas práticas de desenvolvimento, segurança e organização em camadas.  
-
 ## 🚀 Funcionalidades  
 - **Registro de Usuários:** Criação de novos usuários com validação de campos.
 - **Login de Usuários:** Autenticação via email e senha com geração de token **JWT (JSON Web Token)**.
