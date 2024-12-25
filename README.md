@@ -8,7 +8,7 @@ Esta API de autenticação foi desenvolvida utilizando **ASP.NET Core** e implem
 - **Logout:** Revogação de tokens JWT para impedir uso futuro.
 - **Validação de Token:** Verificação de tokens revogados.
 - **Armazenamento Seguro:** Senhas armazenadas de forma segura utilizando hashing **(BCrypt)**.
-- Documentação da API gerada automaticamente com **Swagger**.  
+- **Documentação da API:** Gerada automaticamente com **Swagger**.  
 
 ## 🛠️ Tecnologias e Ferramentas Utilizadas  
 - **ASP.NET Core**: Framework principal para desenvolvimento da API.  
