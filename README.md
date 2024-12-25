@@ -25,12 +25,13 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 - **Persistence Layer:** Cuida das operações de banco de dados e uso do Entity Framework Core.  
 - **Data Transfer Objects (DTOs):** Utilizados para transportar dados entre camadas sem expor entidades de domínio.  
 
-### 🖼️ Estrutura de Pastas 
-- **Controllers:** Lógica de roteamento e resposta HTTP (ex.: `AuthController.cs`).
-- **Services:** Contém as regras de negócio (ex.: `UserService.cs`).
-- **Repositories:** Lógica de acesso ao banco de dados (ex.: `UserRepository.cs`).
-- **DTOs:** Modelos para transferência de dados (ex.: `UserDto.cs`).
-- **Entities:** Representação das tabelas no banco de dados (ex.: `RevokedToken.cs`).
+## 🖼️ Estrutura de Pastas 
+- **Presentation** -> **Controllers:** Lógica de roteamento e resposta HTTP (ex.: `AuthController.cs`).
+- **Application** -> **Services:** Contém as regras de negócio (ex.: `UserService.cs`).
+- **Infrastructure** -> **Repositories:** Lógica de acesso ao banco de dados (ex.: `UserRepository.cs`).
+- **Application** -> **DTOs:** Modelos para transferência de dados (ex.: `UserDto.cs`, `LoginDTO.cs`).
+- **Domain** -> **Entities:** Representação das tabelas no banco de dados (ex.: `User.cs`, `RevokedToken.cs`).
+- **Domain** -> **Interfaces:** Interfaces da aplicação (ex.: `IUserRepository.cs`, `IUserService.cs`).
   
 - **/src
 - **├── Presentation/ # Controllers e configurações de rotas.
