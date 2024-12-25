@@ -15,7 +15,9 @@ Bem-vindo(a) ao repositório da API RESTful desenvolvida em **ASP.NET Core**! Es
 - **Entity Framework Core**: ORM para interação com o banco de dados relacional.  
 - **BCrypt**: Ferramenta para hashing de senhas.  
 - **JWT**: Autenticação segura baseada em tokens.  
-- **Swagger**: Documentação interativa da API.  
+- **Swagger**: Documentação interativa da API.
+- Banco de dados relacional (compatível com SQLite, SQL Server, PostgreSQL, etc.).
+
 
 ## 📚 Arquitetura do Projeto  
 A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando responsabilidades para maior organização e escalabilidade:  
