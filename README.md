@@ -51,3 +51,6 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 ### Pré-requisitos  
 - **.NET SDK** instalado (versão 6.0 ou superior).  
 - **Banco de Dados** (Ex.: SQL Server, configurado no `appsettings.json`).
+
+🧪 Automação de Testes de API
+Esta API possui uma suíte de testes automatizados que garantem a qualidade e a confiabilidade das funcionalidades implementadas. A automação inclui testes para as funcionalidades de Cadastro, Login, e Logout de usuários, além de validar os fluxos de sucesso e erro da API. Segue repositório separado da automação feita em Cypress:
