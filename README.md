@@ -55,9 +55,9 @@ A API foi desenvolvida utilizando a **Arquitetura em Camadas**, separando respon
 ## 🧪 Automação de Testes de API
 A automação contém os testes automatizados da API, desenvolvidos usando o Cypress. A automação inclui testes para as funcionalidades de Cadastro, Login, e Logout de usuários, além de validar os fluxos de sucesso e erro da API.
 
-cadastro.cy.js: Contém testes relacionados ao processo de Cadastro de Usuário, verificando fluxos de sucesso e falha (como cadastro com email duplicado, campos obrigatórios ausentes, etc.).
+**cadastro.cy.js:** Contém testes relacionados ao processo de Cadastro de Usuário, verificando fluxos de sucesso e falha (como cadastro com email duplicado, campos obrigatórios ausentes, etc.).
 
-login.cy.js: Contém testes para o processo de Login. Inclui testes com credenciais válidas, inválidas, e erros relacionados à falta de campos obrigatórios.
+**login.cy.js:** Contém testes para o processo de Login. Inclui testes com credenciais válidas, inválidas, e erros relacionados à falta de campos obrigatórios.
 
-logout.cy.js: Testes relacionados ao Logout do usuário, incluindo múltiplas sessões e sua invalidação após o logout.
+**logout.cy.js:** Testes relacionados ao Logout do usuário, incluindo múltiplas sessões e sua invalidação após o logout.
 
